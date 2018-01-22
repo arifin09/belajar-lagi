@@ -1,0 +1,30 @@
+html, body {
+	margin: 0;
+}
+
+.navbar {
+	background-color: lightblue;
+	color: #222;
+	padding: 15px;
+}
+
+.navbar a {
+	color:#fff;
+	text-decoration:none;
+	background-color: #555;
+	padding:5px;
+}
+
+.main {
+	margin-top: 20px;
+	height: 100%;
+	margin: 30px;
+	background-color: #CECECE;
+	padding:5px;
+}
+
+.footer {
+	background-color: #222;
+	color: #fff;
+	padding:5px;
+}
