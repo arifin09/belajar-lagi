@@ -1,4 +1,4 @@
 # belajar-lagi
 
 ## Keterangan
-project by arifin 
+project by Arifin Ilham
